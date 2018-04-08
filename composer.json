@@ -11,7 +11,6 @@
     "authors": [{
         "name": "NeimarPerez",
         "email": "neimar.sistemas@gmail.com",
-        "homepage": "neimarperez.com",
         "role": "Developer"
     }],
     "require": {
