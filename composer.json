@@ -44,5 +44,5 @@
         "preferred-install": "dist"
     },
     "version": "1.0.0",
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
